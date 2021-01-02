@@ -1,5 +1,5 @@
 ### Date created
-Jan 3, 2021
+January 3, 2021
 
 ### Project Title
 Bike share project 
