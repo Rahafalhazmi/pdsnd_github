@@ -5,7 +5,7 @@ Jan 3, 2021
 Bike share project 
 
 ### Description
-In this project, I used Python to explored data related to bikeshare systems for three major cities in the United States. I performed data wrangling to unify the format of data from the three systems, also I computed descriptive statistics and visualized the data.
+In this project, I used Python to explored data related to bikeshare systems for three major cities in the United States which is New York, Chicago and Washington. I performed data wrangling to unify the format of data from the three systems, also I computed descriptive statistics and visualized the data.
 
 ### Files used
 I used many data files for each city.
